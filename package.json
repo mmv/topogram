@@ -12,6 +12,7 @@
   "author": "Shawn Allen <shawn.allen@hush.com>",
   "license": "MIT",
   "main": "build/topogram.js",
+  "module": "index.js",
   "jsnext:main": "index.js",
   "repository": "shawnbot/topogram",
   "scripts": {
